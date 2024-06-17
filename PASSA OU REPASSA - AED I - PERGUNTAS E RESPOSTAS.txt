@@ -1,0 +1,44 @@
+1. É a ciência que estuda as formas de pensamento (LÓGICA)
+2. Cite uma forma de pensamento (dedução, indução, hipótese, inferência)
+3. É o autor do primeiro trabalho sobre lógica (ARISTOTELES)
+4. Cite um exemplo de Silogismo
+5. São uma representação fiel do raciocínio da lógica de programação (Algoritmos)
+6. Uma sequência de passos que visam atingir um objetivo bem definido. (Algoritmos)
+7. Como é o nome do processo de converter um pseudocódigo em uma linguagem de programação (codificação)
+8. Escreva no quadro um algoritmo em descrição narrativa para realizar a soma de dois números inteiros.
+9. Escreva no quadro um algoritmo em pseudocódigo para realizar a soma de dois números inteiros.
+10. Qual foi o nome do quebra cabeça lógico que o professor trouxe em sala de aula para mostrar (TORRES DE HANOI)
+11. Qual foi o exemplo de algoritmo que o professor Danilo mostrou várias versões na aula introdutória de Lógica explicando o conceito de fluxo de execução? (TROCA DE LAMPADA)
+12. São os Construtores de Algoritmos (PROGRAMADORES)
+13. Cite uma estrutura utilizada em algoritmos
+14. De que maneiras podemos representar um algoritmo?
+15. Qual o nome da linguagem de programação que estamos utilizando? (PYTHON)
+16. É a matéria-prima que faz com que seja necessária a existência dos computadores (INFORMACAO)
+17. Quantos são os tipos primitivos de dados? (4)
+18. Cite dois tipos primitivos de dados usados em pseudocódigos.
+19. Quando um dado não é variável ele é? (CONSTANTE)
+20. Cite um exemplo de dado do dia a dia que é variável.
+21. Cite um exemplo de dado do dia a dia que é constante.
+22. É um nome dado para informações de caráter variável (IDENTIFICADOR)
+23. Cite uma regra para a formação de identificadores.
+24. Em que lugar do computador as variáveis de um programa são armazenadas? (MEMORIA)
+25. Escreva três identificadores de variáveis válidas no quadro.
+26. É um instrumento de grande valia para a clareza do algoritmo (COMENTARIOS)
+27. Escreva uma expressão aritmética no quadro.
+28. Cite quatro operadores aritméticos em pseudocódigo.
+29. Resolva a expressão (1 + 2) * 3 / 3
+30. Qual a palavra-chave que usamos para representar a operação de potenciação em pseudocódigo?
+31. Resolva a expressão (9 mod 5) div 3
+32. Cite quatro operadores relacionais em pseudocódigo.
+33. Resolva a expressão (1 + 2) >= (2 - 1)
+34. Cite dois operadores lógicos em pseudocódigo.
+35. Qual o resultado da expressão lógica Verdadeiro ou Falso e Verdadeiro (Verdadeiro)
+36. É o conjunto de todas as possibilidades combinatórias entre os valores de diversas variáveis lógicas (TABELA VERDADE)
+37. Escreva a tabela verdade do operador lógico E
+38. Qual é o operador de concatenação de literais em pseudocódigo. (|)
+39. Quais são os quatro tipos de expressõs que temos em pseudocódigo.
+40. Para que serve o comando, operador de atribuição e qual o símbolo dele (=)
+41. Qual é o comando de entrada de dados em pseudocódigo? (leia)
+42. Qual é o comando de saída de dados em pseudocódigo? (escreva)
+43. Qual é o comando de entrada de dados em Python? (input)
+44. Qual é o comando de saída de dados em Python? (print)

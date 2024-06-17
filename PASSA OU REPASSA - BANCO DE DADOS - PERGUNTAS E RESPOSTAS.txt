@@ -1,0 +1,42 @@
+1. Linguagem de Programação surgida na década de 60. (COBOL)
+2. Cite um banco de dados relacional.
+3. Cite um banco de dados não relacional.
+4. Qual o nome da linguagem de banco de dados? (SQL)
+5. Criador do Modelo Relacional. (EDGAR CODD)
+6. Nome da empresa detentora do banco de dados SQL Server (MICROSOFT)
+7. Nome da empresa detentora do banco de dados MySQL (ORACLE)
+8. Um campo de uma tabela chamada carros.
+9. Um campo de uma tabela chamada produtos.
+10. Um campo de uma tabela chamada alunos.
+11. Chave primária em inglês. (PRIMARY KEY)
+12. Comando SQL utilizado para criar uma tabela no banco de dados. (CREATE TABLE)
+13. Comando SQL utilizado para criar um banco de dados. (CREATE DATABASE)
+14. Comando SQL utilizado para alterar a estrutura de uma tabela. (ALTER TABLE)
+15. Comando SQL utilizado para excluir uma tabela do banco de dados. (DROP TABLE)
+16. Opção utilizada para informar que um determinado campo de uma tabela é obrigatório. (NOT NULL)
+17. Banco de dados em inglês. (DATABASE)
+18. Comando utilizado para criar um usuário no banco de dados. (CREATE USER)
+19. Ferramenta gráfica do MySQL para administração do banco de dados. (WORKBENCH)
+20. Comando utilizado para conceder privilégios a um usuário. (GRANT)
+21. Nome do usuário administrador do MySQL. (ROOT)
+22. Número da porta do MySQL (3306)
+23. Comando utilizado para revogar privilégios de um usuário. (REVOKE)
+24. Cite três tipos de dados do MySQL.
+25. Comando utilizado para modificar o banco de dados corrente. (USE)
+26. Uma categoria de comandos SQL (DDL, DML, DCL)
+27. Comando da SQL utilizado para recuperar registros de uma tabela (SELECT)
+28. Comando da SQL utilizado para inserir registros em uma tabela (INSERT)
+29. Comando da SQL utilizado para excluir registros de uma tabela (DELETE)
+30. Comando da SQL utilizado para atualizar registros de uma tabela (UPDATE)
+31. Cite um tipo de JOIN.
+32. Cláusula usada nos comandos UPDATE e DELETE para especficar uma condição, filtro (WHERE)
+33. Cite uma função de manipulação de datas do MySQL.
+34. Palavra chave usada para definir o valor padrão de um campo (DEFAULT).
+35. Criador da abordagem ER em 1976 (PETER CHEN)
+36. Forma geométrica para representar uma entidade no modelo conceitual. (RETANGULO)
+37. Cite um exemplo de nível de modelo de dados (lógico, fisico, conceitual)
+38. Caractere usado no comando SELECT para especificar todas as colunas de uma tabela. (*)
+39. Cláusula usada para remover linhas duplicadas de um conjunto de registros. (DISTINCT)
+40. Cite um operador lógico da linguagem SQL (AND, OR).
+41. Cite uma função de agregação da linguagem SQL.
+42. Cite uma cláusula do comando SELECT.

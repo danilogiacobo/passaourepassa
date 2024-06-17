@@ -1,0 +1,30 @@
+1. Linguagem de Programação criada por Guido van Rossum em 1991. (PYTHON)
+2. Nome da função do Python usada para exibir algo na tela. (PRINT)
+3. Extensão do arquivo de script Python (.py)
+4. O que o Python usa para indicar um bloco de código (Indentação)
+5. Em Python é necessário declarar e tipar uma variável antes usar a mesma (FALSO)
+6. Qual é o caractere usado para fazer comentários de uma linha em Python (#)
+7. Nome da função usada para obter o tipo de dados de uma variável (TYPE())
+8. Qual o nome do tipo de dados em Python para armazenar valores lógicos True ou False (bool)
+9. Qual o nome do tipo de dados em Python para armazenar valores com casas decimais (float)
+10. É possível converter um número inteiro em texto e vice-versa em Python. (verdadeiro)
+11. Nome da função usada para obter a quantidade de caracteres de uma String (len())
+12. Qual é o primeiro índice de uma lista em Python? (0)
+13. Nome da função usada para remover espaços em branco de uma string (strip())
+14. Nome da função usada para substituir uma string por outra (replace())
+15. Nome da função usada para dividir uma string em pedaços menores (split())
+16. Cite quatro operadores aritméticos (escrever símbolos no quadro) + - // % / ** *
+17. Qual são os operadores de atribuição e comparação em Python (= e ==)
+18. Cite dois operadores lógicos do Python (or, not e and)
+19. Os itens da lista são ordenados, alteráveis ​​e não permitem valores duplicados. (FALSO)
+20. Um método usado para inserir um item em uma lista. (APPEND, INSERT)
+21. Um método usado para remover um item de uma lista. (REMOVE)
+22. Os itens de uma tupla são ordenados (VERDADEIRO)
+23. Como eu converto uma tupla em uma lista?
+24. Qual é o operador usado para adicionar uma tupla a outra (+)
+25. Qual é o comando para remover deletar completamente uma tupla (DEL)
+26. Explique o processo de desempacotamento.
+27. Qual o método usado para apagar todos os elementos de uma tupla (CLEAR)
+28. Para que serve o "*" ao se trabalhar com tuplas.
+29. Qual o método que retorna o número de vezes que um valor especificado aparece na tupla. (COUNT)
+30. Qual o método que encontra a primeira ocorrência do valor especificado em uma tupla (INDEX).
